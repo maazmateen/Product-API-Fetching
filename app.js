@@ -59,10 +59,7 @@ function seeMore(id){
     
 }
 
-// const filterProduct = Json.products.filter((iteration,index)=>{
-//     console.log(json.products.category ===);
-    
-// })
+
 
 
 
