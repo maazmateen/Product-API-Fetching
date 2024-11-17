@@ -32,3 +32,8 @@ display: -webkit-box;
  .heading{
     text-align: center;
  }
+ .Icon-Box{
+    display: flex;
+    /* justify-content: center; */
+    padding: 5px 20px;
+ }
